@@ -95,7 +95,7 @@ Bank Marketing EDA/
 │   └── Bank_Marketing_Report.pdf
 │
 ├── presentation/
-│   └── Bank_Marketing_EDA_Presentation.pptx
+│   └── Bank_Marketing_EDA_Presentation.pdf
 │
 └── README.md
 
